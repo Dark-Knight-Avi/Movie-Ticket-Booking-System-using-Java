@@ -1,0 +1,11 @@
+========================AK Movies=======================
+		      ----Ticket----
+Name: Bhagyashree Bisoi	Movie: 777 Charlie	
+	Time: 10:20
+			Seat: C3
+	Category: Silver
+			Screen: 3
+	Date: Sat Jul 16 12:23:40 IST 2022
+	Price: ₹225
+	Thank You! Hope to see you again soon!
+
